@@ -3,12 +3,11 @@
 ```javascript
 // index.js
 [
-  '🌐 Full-Stack developer??!',
+  '🌐 Front-End and Back-End Developer',
   "💛 JavaScript as main language, but I've experienced working with other languages too",
   '🤓 I like to learn by myself, always read the docs!',
-  '✨ I tend to follow a style guide/coding conventions',
-  '🔰 日本語がちょっと喋れないんだけど、頑張ります',
-  "🎉 I'm open for collaborations(?)"
+  '✨ I like to follow coding conventions/style guides',
+  "🎉 I'm open for collaborations"
 ].forEach((e) => { console.log(e) });
 ```
 
@@ -48,5 +47,5 @@
 		</td>
 	</tr>
 </table>
-<br>
-<blockquote>💌 Feel free to contact me, if you know me ;)</blockquote>
+
+> 💌 Feel free to contact me, if you know me ;)
