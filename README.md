@@ -26,10 +26,11 @@
 			<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white">
 			<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white">
 			<br>
-			<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white">
 			<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black">
+			<img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white">
 			<img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white">
 			<br>
+			<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white">
 			<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white">
 			<img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0.svg?style=flat&logo=Vuetify&logoColor=white">
 		</td>
