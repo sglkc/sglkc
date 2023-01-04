@@ -24,11 +24,15 @@
 			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black">
 			<br>
 			<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white">
-			<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white">
+			<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white">
+			<img alt="UnoCSS" src="https://img.shields.io/badge/UnoCSS-333333.svg?style=flat&logo=UnoCSS&logoColor=white">
 			<br>
 			<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black">
 			<img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux&logoColor=white">
 			<img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&logo=React-Router&logoColor=white">
+			<br>
+			<img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?style=flat&logo=Astro&logoColor=white">
+			<img alt="Preact" src="https://img.shields.io/badge/Preact-673AB8.svg?style=flat&logo=Preact&logoColor=white">
 			<br>
 			<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white">
 			<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white">
@@ -42,7 +46,13 @@
 			<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=Laravel&logoColor=white">
 			<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white">
 			<img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white">
+		</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>
 			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white">
+			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white">
 		</td>
 	</tr>
 	<tr>
