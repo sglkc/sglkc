@@ -2,9 +2,9 @@
 	<samp>
 		<strong>Take a look around~</strong>
 		<br />
-		<a href="https://sglkc.my.id">Website</a>
+		<a href="https://seya.zip">Website</a>
 		·
-		<a href="https://me.sglkc.my.id">Portfolio</a>
+		<a href="https://portfolio.seya.zip">Portfolio</a>
 		·
 		<a href="mailto:sglkc@protonmail.com">Email</a>
 	</samp>
